@@ -1,0 +1,23 @@
+{
+  "name": "mock-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulkr-dev/mock-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahulkr-dev/mock-server/issues"
+  },
+  "homepage": "https://github.com/rahulkr-dev/mock-server#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
